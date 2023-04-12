@@ -35,7 +35,7 @@ programa
 				escreva("\n Números Pares: ", par)
 				escreva("\n Soma dos números: ", soma)
 				escreva("\n Média dos números: ", media)
-				
+
 				
 //Prof. não consegui colocar os números pares juntos na mesma linha e os ímpares também.
 
